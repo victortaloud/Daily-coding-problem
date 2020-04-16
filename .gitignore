@@ -1,2 +1,2 @@
-*.solutions
-*README.md
+solutions/*.py
+README.md
