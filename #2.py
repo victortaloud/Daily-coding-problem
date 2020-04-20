@@ -15,5 +15,4 @@ def main(lst_ = LIST) :
 
 if __name__ == '__main__' : 
 	print(main())
-	if [3] :
-		print("okkkk")
+	
